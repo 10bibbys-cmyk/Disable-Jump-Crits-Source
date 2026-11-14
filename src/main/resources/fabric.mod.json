@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "pota_no_jump_crits",
+  "version": "1.0.1.1",
+  "name": "Disable Jump Crits",
+  "description": "Removes vanilla jump critical hits while preserving attribute-based critical hits. Requires Zenith Attributes Renewed 1.0.3 for verified crit feedback compatibility.",
+  "authors": [
+    "Path of the Ascended"
+  ],
+  "license": "ARR",
+  "environment": "*",
+  "mixins": [
+    "pota_no_jump_crits.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.19",
+    "minecraft": "1.20.1",
+    "java": ">=17",
+    "zenith_attributes": "1.0.3"
+  }
+}

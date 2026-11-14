@@ -1,0 +1,44 @@
+Disable Jump Crits — Source-Available Notice
+All Rights Reserved
+
+Copyright © 2026 Path of the Ascended.
+All Rights Reserved.
+
+This source code is made publicly accessible for transparency, personal inspection,
+compatibility review, and security analysis. It is NOT released under an open-source licence.
+
+LIMITED PERMISSION FOR PRIVATE INSPECTION
+
+You may view the files on GitHub, clone or download the source, and compile it
+locally for private, non-commercial inspection or verification, provided that:
+- You do not distribute, publish, or share source code or compiled binaries
+  obtained from or produced using this repository.
+- You retain all copyright, attribution, and licensing notices.
+- You do not use the code as part of a separately distributed project.
+
+PROHIBITED WITHOUT PRIOR WRITTEN PERMISSION
+
+Except as expressly permitted above, by applicable law, or by GitHub's Terms
+of Service, no permission is granted to:
+- Redistribute, mirror, republish, sell, sublicense, or commercially exploit
+  this source code or compiled versions of it.
+- Publish modified versions, forks, or derivative mods outside permissions
+  that GitHub's platform terms expressly grant.
+- Incorporate the source code into another distributed mod, modpack utility,
+  software project, or product.
+
+Use and redistribution of official mod release files obtained from supported
+distribution platforms are governed by the terms applicable to those releases,
+not by this repository's source-inspection permission.
+
+This notice does not override rights granted under GitHub's Terms of Service,
+or rights granted by applicable law.
+
+THIRD-PARTY MATERIAL
+
+Libraries and other mods referenced by the code remain the property of their
+respective authors and retain their own licences. No rights over third-party
+material are claimed or granted by this notice.
+
+For permissions beyond private inspection, please contact the project
+maintainer before using or distributing this work.

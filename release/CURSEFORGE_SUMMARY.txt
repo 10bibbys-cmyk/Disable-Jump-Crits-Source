@@ -1,0 +1,1 @@
+Disable vanilla jump critical hits while preserving Zenith Attributes-based critical hits and their accepted-hit feedback. Fabric 1.20.1.

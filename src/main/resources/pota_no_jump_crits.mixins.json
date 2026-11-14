@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.pota.nojumpcrits.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "PlayerEntityMixin",
+    "LivingEntityDamageMixin",
+    "ZenithCritDispatchMixin"
+  ],
+  "client": [
+    "CritParticleMessageMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

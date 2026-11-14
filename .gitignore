@@ -1,0 +1,12 @@
+# Gradle, Minecraft and IDE generated files
+.gradle/
+build/
+run/
+out/
+.idea/
+*.iml
+*.class
+*.jar
+*.log
+.DS_Store
+Thumbs.db
