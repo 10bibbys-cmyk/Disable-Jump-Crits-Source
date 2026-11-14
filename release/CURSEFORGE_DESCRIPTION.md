@@ -43,6 +43,12 @@ The mod uses a targeted Mixin to suppress the vanilla airborne-critical flag ins
 
 It does not alter the player's actual fall distance, replace the combat system or change critical-hit attributes. Because some hooks are version-specific, compatibility with other Minecraft or Zenith releases is not guaranteed.
 
+## Source Code & Licensing
+
+The source for **Disable Jump Crits 1.0.1.1** is publicly available for inspection on [GitHub](https://github.com/10bibbys-cmyk/Disable-Jump-Crits-Source).
+
+This project is **source-available, All Rights Reserved**, rather than open source. Private inspection and local verification are permitted under the repository's [licence notice](https://github.com/10bibbys-cmyk/Disable-Jump-Crits-Source/blob/main/LICENSE). Public redistribution of the source, release of modified builds, or incorporation into other distributed projects requires prior written permission.
+
 ## Credits
 
 **Developed for Path of the Ascended**, and shared as a standalone compatibility mod for other Minecraft 1.20.1 Fabric packs.
